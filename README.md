@@ -12,7 +12,7 @@ https://codingiskhuu.github.io/challengeme/
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-![Screenshot of my page](/assets/images/Capture.png?raw=true)
+![Screenshot of my page](/assets/images/Capture.PNG?raw=true)
 
 
 
