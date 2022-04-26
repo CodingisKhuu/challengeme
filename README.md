@@ -1,6 +1,8 @@
-# challengeme
+# Challenge Me
 
-## This is a test challenge for my UT bootcamp where I've been given starter code to fix and make sure it meets the following requirements to turn in. Being able to understand more about how HTML and CSS work will benefit me in retaining both the knowledge but also the language that it uses. This will solve the issue of having to keep using div and making both the HTML and CSS look neater, organized and cleaner.
+## This is a test challenge for my UT bootcamp where I've been given starter code to fix and make sure it meets the following requirements to turn in. 
+Being able to understand more about how HTML and CSS work will benefit me in retaining both the knowledge but also the language that it uses. 
+This will solve the issue of having to keep using div and making both the HTML and CSS look neater, organized and cleaner.
 
 ## Installation
 
@@ -10,11 +12,7 @@ Just clone it baby.
 
 https://codingiskhuu.github.io/challengeme/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
 ![Screenshot of my page](/assets/images/Capture.PNG?raw=true)
-
-
 
 ## Credits
 
